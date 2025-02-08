@@ -1,0 +1,17 @@
+.heading {
+  font-family: "Poppins", sans-serif; /* Modern and clean font */
+  font-size: 2.5rem; /* Adjust size to fit your design */
+  font-weight: 700; /* Bold for emphasis */
+  color: #333333; /* Dark gray for a modern look */
+  text-align: center; /* Center the heading */
+  text-transform: uppercase; /* Make it uppercase for a sleek look */
+  letter-spacing: 2px; /* Add spacing between letters */
+  background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff7eb3);
+  background-clip: text; /* Standard property for future compatibility */
+  -webkit-background-clip: text; /* WebKit-specific property for current support */
+  -webkit-text-fill-color: transparent; /* Make the background visible */
+  margin: 20px 0; /* Add some spacing */
+  padding: 10px 15px; /* Padding around the text */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border-radius: 10px; /* Rounded corners */
+}
